@@ -1,0 +1,13 @@
+{
+    "name": "Currency Converter",
+    "short_name": "Currency Converter",
+    "description": "",
+    "start_url": "/",
+    "theme_color": "#039588",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "scope": "/",
+    "icons": [
+        
+    ]
+}
